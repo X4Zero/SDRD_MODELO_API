@@ -1,0 +1,4 @@
+proy_env
+__pycache__
+modelos/VGG16FT
+modelos/VGG19FT
